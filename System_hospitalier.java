@@ -35,7 +35,7 @@ public class System_hospitalier {
 	
 	private String analyserRequete(Requête requête) {
 		// Analyser la requête
-		// Question 4 ajout de texte 
+		// Question 4 ajout de texte :3 
 		return "requête analysée"
 	}
 	
